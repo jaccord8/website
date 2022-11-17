@@ -1,4 +1,6 @@
 
+
+
 <style>
 ul {
   list-style-type: none;
@@ -30,3 +32,21 @@ li a.active {
   background-color: #04AA6D;
 }
 </style>
+<body style="background-color:powderblue;">
+
+
+<ul>
+  <li><a href="file:///C:/Users/jcordeiro739/Downloads/HTML%20basic%20.html" href="#home">Home</a></li>
+  <li><a href="file:///C:/Users/jcordeiro739/Downloads/new%202.html">Sports</a></li>
+  <li><a href="file:///C:/Users/jcordeiro739/Downloads/new%203.html">Tigers</a></li>
+  <li><a href="file:///C:/Users/jcordeiro739/Downloads/html%20web.html">Family</a></li>
+   <li><a href="file:///C:/Users/jcordeiro739/Downloads/new%204.html">Golf</a></li>
+</ul>
+
+
+<p style="color:red;">My family is a huge part of my life and I love when I am able to come home from school and see them. I have a mother a father and two younger brothers as well as a puppy and her name 
+is rummy. We just got her before this past summer, she has grownm to be so big and is still growing. </p>
+<p style="color:red;"> My father played hockey at UMASS Dartmouth so he has passed down the hockey genes to my brothers and I, all of us play and my middel brother is actually coming here next year to play with me. He and I are
+very excited to play  again together because we also played with eachother in high school and we were very good together. </p>
+<p style="color:red;"> My mother went to Northeasdtern as a med student, she worked very hard and graduated with a great job out of college in the pharmacutical market but had to step away and raise my brothers 
+and I and my dad had to work to make the income, she made a great sacrificer because she had a great job. </p>
